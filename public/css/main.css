@@ -1,0 +1,135 @@
+.navbar-inverse {
+	background: #2c3e50;
+}
+.navbar-center {
+	margin: auto;
+	float: none;
+}
+body {
+	font-family: cursive;
+	background: url("../images/img6.jpg");
+	background-attachment: fixed;
+}
+
+html, body {
+	height: 100%;
+}
+.jumbotron-background {
+	background:transparent !important;
+	color: white;
+	position: absolute;
+	top: 30%;
+	left: 30%;
+	width: 40%;
+	text-align: center;
+}
+.car_icon {
+	max-height: 100px;
+}
+.btn-start {
+	color: white;
+	font-size: 2em;	
+	background: rgba(77,77,77,0.1);
+}
+.btn-start:hover {
+	color: white;
+	background: rgba(77,77,77,0.6);
+}
+.about {
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background: url("../images/img7.jpg");
+	background-attachment: fixed;
+	color: white;
+	/*position: absolute;
+	top: 100%;*/
+	width: 100%;
+	text-align: center;
+}
+.about-thumb {
+	background: transparent;
+	border: none;
+}
+.white {
+	color: white;
+}
+.about-div {
+	width: 60%;
+	margin: 0 auto;
+	font-size: 1.2em;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.gallery {
+	background: white;
+	background-attachment: fixed;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	color: #262626;
+	width: 100%;
+	text-align: center;
+}
+.after-home{
+	position: absolute;
+	top: 100%;
+	display: block;
+	width: 100%;
+}
+.gallery-img {
+	width: 100%;
+	margin: 20px 0 0 0;
+	padding: 0;
+}
+.jumbotron-gallery{
+	color: #2c3e50;
+	background: #ecf0f1;
+}
+.hover:hover {
+	border: 1px solid black;
+}
+.less-btn {
+	display: none;
+}	
+.noview {
+	display: none;
+}
+.gallery-btn {
+	height: 50px;
+	width: 30%;
+	margin:0 auto;
+	padding-top: 15px; 
+}
+.contact {
+	color: white;
+	background: url("../images/img10.jpg");
+	background-attachment: fixed;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	width: 100%;
+}
+.contact-list {
+	list-style: none;
+	font-size: 1.5em;
+}
+.contact-message {
+	background: none;
+	width: 50%;
+	margin: 5px 0;
+}
+.pre-contact {
+	height: 400px;
+	background: url("../images/img2.jpg");
+	background-attachment: fixed;
+}
+.footer	{
+	color: white;
+	padding-top: 50px;
+	font-size: 1.2em;
+	background: #222831;
+	height: 200px;
+}
+.textarea{
+	height: 200px;
+}
